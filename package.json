@@ -1,0 +1,32 @@
+{
+  "name": "ajs-hw-clear_functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorTkachev/ajs-hw-clear_functions.git"
+  },
+  "author": "Viktor Tkachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViktorTkachev/ajs-hw-clear_functions/issues"
+  },
+  "homepage": "https://github.com/ViktorTkachev/ajs-hw-clear_functions#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.4.3",
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "core-js": "^3.29.0"
+  }
+}
